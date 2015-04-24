@@ -1,3 +1,0 @@
-# sbt-plugins repository
-
-more info follows ...
